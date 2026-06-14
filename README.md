@@ -59,6 +59,8 @@ Contributed to enterprise Generative AI initiatives focused on knowledge discove
 - Knowledge Retrieval Systems
 - AI-powered User Experiences
 - Enterprise AI Adoption
+- Memory Aware Agent (Short Term + Long Term)
+- Feedback Loop (Self Improving Agent)
 
 > Project details are intentionally limited to respect confidentiality requirements.
 
