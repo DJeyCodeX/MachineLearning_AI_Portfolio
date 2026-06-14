@@ -53,6 +53,9 @@ Developed scalable analytics and data engineering solutions supporting global bu
 
 Contributed to enterprise Generative AI initiatives focused on knowledge discovery, intelligent search, and productivity enhancement.
 
+### Technologies
+LangChain • LangGraph • Databricks • Databricks Apps • LLMs • MLFlow
+
 #### Areas of Contribution
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
@@ -60,7 +63,7 @@ Contributed to enterprise Generative AI initiatives focused on knowledge discove
 - AI-powered User Experiences
 - Enterprise AI Adoption
 - Memory Aware Agent (Short Term + Long Term)
-- Feedback Loop (Self Improving Agent)
+- Feedback Loop (Self-Improving Agent)
 
 > Project details are intentionally limited to respect confidentiality requirements.
 
