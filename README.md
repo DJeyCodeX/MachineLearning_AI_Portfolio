@@ -1,8 +1,8 @@
 # Hi, I'm Divyansh Jain 👋
 
-### Senior Data Engineer | AI Builder | Future AI Researcher
+### Senior Data Engineer | Enterprise AI Engineer | Future AI Leader
 
-Senior Data Engineer at Rockwell Automation building AI-powered solutions, enterprise data platforms, and intelligent automation systems.
+Senior Data Engineer at Rockwell Automation, building AI-powered solutions, enterprise data platforms, and intelligent automation systems.
 
 My work sits at the intersection of:
 
