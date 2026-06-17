@@ -120,7 +120,7 @@ https://github.com/DJeyCodeX/DimensionalityReduction-Techniques
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Interests
 
 - Artificial Intelligence
 - Machine Learning
